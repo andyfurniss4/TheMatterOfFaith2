@@ -289,7 +289,6 @@ __pycache__/
 
 
 # Other
-*.css
 *.scss
 *.css.map
 *compilerconfig.json
