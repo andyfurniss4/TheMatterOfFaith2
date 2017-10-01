@@ -65,6 +65,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="favicon.ico" />
     <Content Include="packages.config" />
     <None Include="styles\site.scss" />
     <None Include="compilerconfig.json" />
